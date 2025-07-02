@@ -43,4 +43,4 @@ ipyleaflet
 # Python: additional libraries for DR exploration
 polars
 altair
-
+pyarrow
